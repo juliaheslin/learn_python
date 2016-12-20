@@ -31,3 +31,5 @@ for ax in axes.flat:
 fig.tight_layout()
 fig.subplots_adjust(wspace=0.09)
 plt.show()
+
+# Found at http://stackoverflow.com/questions/27694221/using-python-libraries-to-plot-two-horizontal-bar-charts-sharing-same-y-axis
