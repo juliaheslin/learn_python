@@ -1,0 +1,6 @@
+def odd_return(n):
+    odd_list = []
+    for num in range(n):
+       if num % 2 == 0:
+           odd_list.append(num+1)
+    print (odd_list)
